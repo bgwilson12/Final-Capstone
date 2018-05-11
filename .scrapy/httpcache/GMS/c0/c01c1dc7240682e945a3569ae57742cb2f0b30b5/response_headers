@@ -1,0 +1,9 @@
+Server: nginx
+Date: Thu, 10 May 2018 21:58:55 GMT
+Content-Type: text/html; charset=UTF-8
+Link: <https://grademiners.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://grademiners.com/?p=2413>; rel=shortlink
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Encoding: gzip
