@@ -1,0 +1,90 @@
+1. Project Overview
+This Joint Incentive Fund proposal focused on identifying common needs between federal
+agencies and on discovering the best methods of standardization that can be implemented to take
+advantage of these common needs. In specific, this Joint Incentive Fund proposal focuses on
+courseware used in educational programs. To focus on these groups, this JIF intends to launch
+Commercial Off the Shelf (COTS) e learning courseware that focuses on existing scalable
+learning management systems.
+The launch of these Commercial Off the Shelf e learning courseware is proposed for the primary
+goal of standardizing existing educational software. In specific, this Joint Incentive Fund
+Proposal aims to provide a common system of healthcare courseware for annual training
+requirements, such as those from the OSHA, the CDC, The Joint Commission, other relevant
+organizations. This JIF aims to reduce costs to and to increase efficacy for the parties involved in
+this training and to those involved in the distribution and creation of these programs, as well as to
+the individuals involved in administering this training.
+It is hypothesized that the proposal that is suggested by this Joint Incentive Fund would reduce
+financial costs, would increase accessibility, would increase consistency, and would increase
+readiness for individuals involved in mandatory training in DoD, VA, and other healthcare
+facilities that are supported by the Bureau of Indian Affairs and by the Coast Guard. The metrics
+off of which these factors are measured are as defined by these organizations and their specific
+needs.
+The project seeks to achieve four primary goals and objectives. First, the project aims to
+standardize these training and education programs through joint DoD and VA effort, in order to
+facilitate communication, ease of use, and to achieve the various other goals of the project. The
+second goal is that of ensuring that VA and DoD healthcare personnel are aware of any and all
+changing regulations and to ensure that these individuals are compliant with these regulations.
+Third, through standardization, the project aims to decrease costs, to increase consistency, to
+increase portability, and to increase readiness reporting. Finally, the project aims to reduce the
+cost of training by 50% to 60% through decreasing reducing seat time, decreasing redundant
+development time, removing inconsistencies, streamlining annual review and management, and
+reducing travel costs.
+2. Project Implementation
+a. Activities
+The first stage of this JIF proposal is that of preparation. The preparation stage of this project
+entails the distribution of all planned courses to review parties within 45 days of the award date.
+All programs will be tested on the target LMS platform, to ensure that functionality is correct.
+Testing will be thorough, after which requests for changes to programs may be made; however,
+if changes are requested, additional funding or modification to proposed timeframes may be
+required. This stage ends with preparation of support systems.
+The second stage of the project is that of distribution of WTB content through the MHS Learning
+Management System (LMS). Specifically, this distribution will be done through the VA’s
+centralized LMS platform, as the use of this standardized and accessible platform is congruent
+with this project’s stated goals of increasing accessibility and maintainability. Slight differences
+will occur between the distribution methods used among various branches, depending on their
+existing infrastructure; in all cases, the existing infrastructure will be used, rather than having
+new infrastructure be created.
+The final stage of this project is that of providing follow up support, troubleshooting, and
+management to address issues that may arise. The COTS programs that are planned to be
+implemented under this JIF proposal are designed in a manner to allow for ease of
+troubleshooting; this is done through support systems ingrained into these programs and
+maintainability features implemented to allow changes to the functionality of these COTS
+programs. Support is included within the scope of purchase of COTS, including both access to
+these maintainability features and to communication and assistance from the original COTS
+developers (PerforMax). In addition, new courseware will be distributed as relevant and updates
+will be provided when needed.
+b. Resources
+ROI identified in BCA $18,650,000
+ROI actual / achieved to date $14,750,000
+Projected ROI $66,950,000
+Date ROI is expected to be achieved 01/01/2012
+Explanation for any deviation ROI is lower during the first year of the project,
+but increases through future years. Identified ROI
+is gross ROI.
+3. Metrics
+Metric Value
+Savings $66,950,000
+Facilities Trained 2 (DoD, VA)
+Individuals Trained 225,000
+4. Lessons Learned
+a. Implementation of this courseware varies based on existing infrastructure of facilities. As
+such, implementation to new facilities has continued to have a cost higher than expected. While
+it was expected for there to be a cost to implement this technology into new systems, the
+differences in infrastructure result in new challenges in each implementation, especially with
+large systems.
+b. Implementation of new systems often takes longer than expected, especially in large facilities
+or facilities that have been in place for a significant amount of time. Adapting to new
+technologies and switching from old technologies is difficult for many users, especially those
+who are not technologically savvy. This results in a higher than expected amount of support
+needed for certain facilities.
+5. Conclusions
+a. The implementation of standardized educational programs, such as COTS, for DoD and VA
+facilities has shown significant benefits, including:
+i. Significant financial savings (roughly 50%­60% from previous systems; see table in
+section #02)
+ii. Decreased time spent using programs (roughly 50%)
+iii. Increased maintainability
+b. The programs proposed from this JIF report are able to be implemented in additional facilities
+from the DoD and VA facilities discussed in this JIF report.
+c. The foundations established through this program can be used as a framework for future
+electronic educational and/or training programs in other fields, as well as in further healthcare
+fields and facilities.
