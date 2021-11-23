@@ -1,5 +1,5 @@
 # Final-Capstone
-The final capstone project for the Thinkful Data Science Bootcamp
+This project attempts to identify students who have utilized a ghost writer for their college essays in Academic Contract Cheating. The data was scraped from the internet with custom web crawlers.
 
 Here is my project proposal, I think it sums everything up pretty nicely so I'll just post it here.
 
