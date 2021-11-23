@@ -1,8 +1,6 @@
 # Final-Capstone
 This project attempts to identify students who have utilized a ghost writer for their college essays in Academic Contract Cheating. The data was scraped from the internet with custom web crawlers.
 
-Here is my project proposal, I think it sums everything up pretty nicely so I'll just post it here.
-
 ## Final Project Proposal
 The following is my final capstone project proposal for the review of the Thinkful Staff. I have included the prompts given in the assignment and will answer each of them individually.
 
